@@ -1,0 +1,4314 @@
+{"status":"success","logs":[{"cron_job_id":"36515","scheduled_time":"2014-06-09 16:15:00","fire_time":"2014-06-09 16:15:03","done_time":"2014-06-09 16:15:03","connect_time":"0.036","execute_time":"0.250","http_code":"200","total_time":"0.287","original_output_length":"3001","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 16:15:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 12:10PM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;12:10PM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;12:10PM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG>Â and <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 16:10:00","fire_time":"2014-06-09 16:10:02","done_time":"2014-06-09 16:10:02","connect_time":"0.198","execute_time":"0.269","http_code":"200","total_time":"0.467","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 16:10:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 16:05:00","fire_time":"2014-06-09 16:05:03","done_time":"2014-06-09 16:05:03","connect_time":"0.050","execute_time":"0.323","http_code":"200","total_time":"0.374","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 16:05:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 16:00:00","fire_time":"2014-06-09 16:00:02","done_time":"2014-06-09 16:00:02","connect_time":"0.071","execute_time":"0.296","http_code":"200","total_time":"0.367","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 16:00:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:55:00","fire_time":"2014-06-09 15:55:03","done_time":"2014-06-09 15:55:03","connect_time":"0.047","execute_time":"0.264","http_code":"200","total_time":"0.311","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:55:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:50:00","fire_time":"2014-06-09 15:50:02","done_time":"2014-06-09 15:50:02","connect_time":"0.056","execute_time":"0.333","http_code":"200","total_time":"0.389","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:50:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:45:00","fire_time":"2014-06-09 15:45:02","done_time":"2014-06-09 15:45:02","connect_time":"0.072","execute_time":"0.353","http_code":"200","total_time":"0.426","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:45:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:40:00","fire_time":"2014-06-09 15:40:02","done_time":"2014-06-09 15:40:02","connect_time":"0.061","execute_time":"0.288","http_code":"200","total_time":"0.349","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:40:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:35:00","fire_time":"2014-06-09 15:35:01","done_time":"2014-06-09 15:35:01","connect_time":"0.079","execute_time":"0.252","http_code":"200","total_time":"0.331","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:35:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:30:00","fire_time":"2014-06-09 15:30:02","done_time":"2014-06-09 15:30:02","connect_time":"0.038","execute_time":"0.368","http_code":"200","total_time":"0.406","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:30:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:25:00","fire_time":"2014-06-09 15:25:02","done_time":"2014-06-09 15:25:02","connect_time":"0.044","execute_time":"0.273","http_code":"200","total_time":"0.317","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:25:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:20:00","fire_time":"2014-06-09 15:20:02","done_time":"2014-06-09 15:20:02","connect_time":"0.029","execute_time":"0.331","http_code":"200","total_time":"0.360","original_output_length":"2998","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:20:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:18AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:18AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15</STRONG> & <STRONG>M15 SBS</STRONG> southbound buses are delayed, due to heavy traffic on 2 Av between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:15:00","fire_time":"2014-06-09 15:15:02","done_time":"2014-06-09 15:15:02","connect_time":"0.112","execute_time":"0.294","http_code":"200","total_time":"0.406","original_output_length":"3013","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:15:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 11:11AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;11:11AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31</STRONG>, <STRONG>M57</STRONG>, <STRONG>X12</STRONG>, <STRONG>X14</STRONG>, <STRONG>X30</STRONG> and <STRONG>X42</STRONG> buses are delayed due to Verizon construction on 57 St & 6 Av, obstructing and causing delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:10:00","fire_time":"2014-06-09 15:10:02","done_time":"2014-06-09 15:10:02","connect_time":"0.072","execute_time":"0.318","http_code":"200","total_time":"0.391","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:10:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:05:00","fire_time":"2014-06-09 15:05:02","done_time":"2014-06-09 15:05:02","connect_time":"0.061","execute_time":"0.294","http_code":"200","total_time":"0.355","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:05:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 15:00:00","fire_time":"2014-06-09 15:00:03","done_time":"2014-06-09 15:00:03","connect_time":"0.235","execute_time":"0.333","http_code":"200","total_time":"0.568","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 15:00:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:55:00","fire_time":"2014-06-09 14:55:01","done_time":"2014-06-09 14:55:01","connect_time":"0.071","execute_time":"0.335","http_code":"200","total_time":"0.406","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:55:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:50:00","fire_time":"2014-06-09 14:50:02","done_time":"2014-06-09 14:50:02","connect_time":"0.109","execute_time":"0.349","http_code":"200","total_time":"0.458","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:50:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:45:00","fire_time":"2014-06-09 14:45:02","done_time":"2014-06-09 14:45:02","connect_time":"0.022","execute_time":"0.289","http_code":"200","total_time":"0.311","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:45:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:40:00","fire_time":"2014-06-09 14:40:03","done_time":"2014-06-09 14:40:03","connect_time":"0.064","execute_time":"0.298","http_code":"200","total_time":"0.362","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:40:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:35:00","fire_time":"2014-06-09 14:35:02","done_time":"2014-06-09 14:35:02","connect_time":"0.067","execute_time":"0.259","http_code":"200","total_time":"0.326","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:35:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:30:00","fire_time":"2014-06-09 14:30:03","done_time":"2014-06-09 14:30:03","connect_time":"0.086","execute_time":"0.265","http_code":"200","total_time":"0.350","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:30:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:25:00","fire_time":"2014-06-09 14:25:03","done_time":"2014-06-09 14:25:03","connect_time":"0.076","execute_time":"0.320","http_code":"200","total_time":"0.396","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:25:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:20:00","fire_time":"2014-06-09 14:20:02","done_time":"2014-06-09 14:20:02","connect_time":"0.201","execute_time":"0.381","http_code":"200","total_time":"0.582","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:20:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:15:00","fire_time":"2014-06-09 14:15:02","done_time":"2014-06-09 14:15:02","connect_time":"0.231","execute_time":"0.313","http_code":"200","total_time":"0.544","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:15:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:10:00","fire_time":"2014-06-09 14:10:02","done_time":"2014-06-09 14:10:02","connect_time":"0.051","execute_time":"0.377","http_code":"200","total_time":"0.428","original_output_length":"2965","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:10:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014 10:05AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp;10:05AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound buses are running with delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:05:00","fire_time":"2014-06-09 14:05:02","done_time":"2014-06-09 14:05:02","connect_time":"0.192","execute_time":"0.291","http_code":"200","total_time":"0.483","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:05:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 14:00:00","fire_time":"2014-06-09 14:00:02","done_time":"2014-06-09 14:00:02","connect_time":"0.084","execute_time":"0.298","http_code":"200","total_time":"0.382","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 14:00:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:55:00","fire_time":"2014-06-09 13:55:01","done_time":"2014-06-09 13:55:01","connect_time":"0.070","execute_time":"0.259","http_code":"200","total_time":"0.329","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:55:00 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:50:00","fire_time":"2014-06-09 13:50:03","done_time":"2014-06-09 13:50:03","connect_time":"0.063","execute_time":"0.261","http_code":"200","total_time":"0.324","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:50:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:45:00","fire_time":"2014-06-09 13:45:02","done_time":"2014-06-09 13:45:02","connect_time":"0.049","execute_time":"0.363","http_code":"200","total_time":"0.413","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:45:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:40:00","fire_time":"2014-06-09 13:40:02","done_time":"2014-06-09 13:40:02","connect_time":"0.027","execute_time":"0.275","http_code":"200","total_time":"0.302","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:40:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:35:00","fire_time":"2014-06-09 13:35:01","done_time":"2014-06-09 13:35:01","connect_time":"0.192","execute_time":"0.282","http_code":"200","total_time":"0.475","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:35:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:30:00","fire_time":"2014-06-09 13:30:02","done_time":"2014-06-09 13:30:02","connect_time":"0.104","execute_time":"0.283","http_code":"200","total_time":"0.387","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:30:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:25:00","fire_time":"2014-06-09 13:25:02","done_time":"2014-06-09 13:25:02","connect_time":"0.069","execute_time":"0.399","http_code":"200","total_time":"0.468","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:25:01 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:20:00","fire_time":"2014-06-09 13:20:02","done_time":"2014-06-09 13:20:02","connect_time":"0.043","execute_time":"0.385","http_code":"200","total_time":"0.428","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:20:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:15:00","fire_time":"2014-06-09 13:15:03","done_time":"2014-06-09 13:15:03","connect_time":"0.074","execute_time":"0.274","http_code":"200","total_time":"0.349","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:15:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:10:00","fire_time":"2014-06-09 13:10:02","done_time":"2014-06-09 13:10:02","connect_time":"0.121","execute_time":"0.334","http_code":"200","total_time":"0.455","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:10:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:05:00","fire_time":"2014-06-09 13:05:03","done_time":"2014-06-09 13:05:03","connect_time":"0.235","execute_time":"0.370","http_code":"200","total_time":"0.604","original_output_length":"2954","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:05:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  9:02AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 9:02AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M31, M57, X12, X14, X30</STRONG> and <STRONG>X42</STRONG> bus service delays due to Verizon construction on 57 StÂ and 6 Av, obstructing and causingÂ  heavy traffic delays on 57 St.</P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 13:00:00","fire_time":"2014-06-09 13:00:03","done_time":"2014-06-09 13:00:03","connect_time":"0.170","execute_time":"0.247","http_code":"200","total_time":"0.417","original_output_length":"2405","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 13:00:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:38AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:55:00","fire_time":"2014-06-09 12:55:01","done_time":"2014-06-09 12:55:01","connect_time":"0.053","execute_time":"0.257","http_code":"200","total_time":"0.310","original_output_length":"2405","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:55:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:38AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:50:00","fire_time":"2014-06-09 12:50:02","done_time":"2014-06-09 12:50:02","connect_time":"0.189","execute_time":"0.293","http_code":"200","total_time":"0.483","original_output_length":"2405","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:50:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:38AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:45:00","fire_time":"2014-06-09 12:45:01","done_time":"2014-06-09 12:45:01","connect_time":"0.143","execute_time":"0.316","http_code":"200","total_time":"0.459","original_output_length":"2405","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:45:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:38AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:40:00","fire_time":"2014-06-09 12:40:02","done_time":"2014-06-09 12:40:02","connect_time":"0.143","execute_time":"0.297","http_code":"200","total_time":"0.440","original_output_length":"2405","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:40:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:38AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitleDelay\">Delays</span>
+                  <span class=\"DateStyle\">
+                  &nbsp;Posted:&nbsp;06/09/2014&nbsp; 8:38AM
+                  </span>
+                  <br/>
+                  <br/>
+                <P><STRONG>M15Â </STRONG>and <STRONG>M15 SBS</STRONG> southbound bus service delays due to heavy traffic on 2 AvÂ between 86 StÂ and 34 St. </P>
+<P>Allow additional travel time.</P>
+              <br/>
+              <br/>
+            
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:35:00","fire_time":"2014-06-09 12:35:02","done_time":"2014-06-09 12:35:02","connect_time":"0.063","execute_time":"0.250","http_code":"200","total_time":"0.313","original_output_length":"1908","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:35:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:33AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:30:00","fire_time":"2014-06-09 12:30:03","done_time":"2014-06-09 12:30:03","connect_time":"0.026","execute_time":"0.248","http_code":"200","total_time":"0.274","original_output_length":"1908","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:30:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:23AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:25:00","fire_time":"2014-06-09 12:25:02","done_time":"2014-06-09 12:25:02","connect_time":"0.198","execute_time":"0.288","http_code":"200","total_time":"0.485","original_output_length":"1908","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:25:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:23AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:20:00","fire_time":"2014-06-09 12:20:02","done_time":"2014-06-09 12:20:02","connect_time":"0.043","execute_time":"0.297","http_code":"200","total_time":"0.340","original_output_length":"1908","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:20:02 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:13AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:15:00","fire_time":"2014-06-09 12:15:02","done_time":"2014-06-09 12:15:02","connect_time":"0.173","execute_time":"0.286","http_code":"200","total_time":"0.459","original_output_length":"1908","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:15:03 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:13AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"},{"cron_job_id":"36515","scheduled_time":"2014-06-09 12:10:00","fire_time":"2014-06-09 12:10:04","done_time":"2014-06-09 12:10:04","connect_time":"0.217","execute_time":"0.372","http_code":"200","total_time":"0.589","original_output_length":"1908","truncated_output":"HTTP/1.1 200 OK
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: PHP/5.1.1
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jun 2014 12:10:04 GMT
+Connection: close
+
+
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\"
+<head>
+<title>NYCT On The Go</title>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />
+<meta id=\"viewportMeta\" name = \"viewport\" content = \"user-scalable=yes, width=device-width, initial-scale = 1.0 minimum-scale = 1.0, maximum-scale = 2.0'\" />
+
+<script>
+function ShowHide(div)
+
+{
+
+ var control = document.getElementById(div); 
+
+ if(control.style.display == \"inline\" || control.style.display == \"\")               
+
+ control.style.display = 'none';
+
+ else                
+
+ control.style.display = 'inline';
+
+}
+
+</script>
+
+</head>
+<body>
+<span style=\"display:none\">
+Bus-M1 - M116<br />
+<div id=\"postDate\" style=\"display:none;\">Posted: 06/09/2014  8:03AM</div>
+<br />
+<span style=\"font-family:arial; font-size:30px; font-weight:bold;\">MTA Service Notice</span>
+<br />
+</span>
+<br />
+
+                  <span class=\"TitlePlannedWork\" >Planned Detour</span>
+                  <br/>
+                <a class=\"plannedWorkDetailLink\" onclick=ShowHide(69002);>
+<b>M4 bus stop on Fort Washington Av between 178 St and 179 St temporarily closed
+</a><br/><br/><div id= 69002 class=\"plannedWorkDetail\" ></b>Until late Spring 2015
+<br>
+<br>Due to <a href=http://www.panynj.gov/bus-terminals/gwbbs-renovation.html target=_blank><font color=#0000FF><b><u>construction</u></b></font></a>, please board buses <b>on</b> <b>Fort Washington Av</b> at 177 St in both directions.
+<br><b>
+<br></div></b><br/>
+              <br/>
+              <br/>
+            
+
+
+</body>
+</html>
+
+
+
+
+
+
+"}]}
